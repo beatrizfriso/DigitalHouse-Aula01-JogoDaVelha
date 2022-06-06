@@ -1,6 +1,6 @@
 # Jogo da velha
 ## Integrantes
-### NOME COMPLETO
+### NOME COMPLETO BEATRIZ FRISO DE PAULA
 
 
 | -  |  A     | B     | C     |
